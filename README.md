@@ -1,6 +1,6 @@
 # CarInsurancePrediction
 predicted customer interest in car insurance knowing they have health insurance from that same company. 
-This project is structured into phases
+This project is structured into phases **find in the master branch**
 # Phase 2
 this aim of this project is to handle the data. As this was a learning experience, and the data was quite clean, Our team corrupted the data (so that we could re-clean it). afterwards, the following was performed on the data: cleaning outliers and erroneous data, featured selection, feature elimination, feature importance, data transform, feature engineering, dimentionality reduction (among other things).
 Perhaps most importantly, this phase involved exploratory data analysis, where we derived insights from the data by creating useful graphs and analysing them.
